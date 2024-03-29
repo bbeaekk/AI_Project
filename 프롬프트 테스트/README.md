@@ -39,3 +39,13 @@ inpaint
 )
 
 ---
+
+---
+i2i
+---
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/373b41f590f885d21c1a977a0bf2f69bb46cfab3/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B7%B8%EB%A6%BC1.png
+)
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/373b41f590f885d21c1a977a0bf2f69bb46cfab3/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B7%B8%EB%A6%BC2.png
+)
