@@ -49,3 +49,16 @@ i2i
 
 ![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/373b41f590f885d21c1a977a0bf2f69bb46cfab3/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B7%B8%EB%A6%BC2.png
 )
+
+---
+# Control Net
+
+## LineArt
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/745940d411bef9e9b8f624bd62f934b3f637fb51/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/3ed863717eb290d3df169ebdb70df75e.png
+)
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/745940d411bef9e9b8f624bd62f934b3f637fb51/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/2.png
+)
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/745940d411bef9e9b8f624bd62f934b3f637fb51/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/1.png
+)
