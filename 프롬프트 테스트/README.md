@@ -28,3 +28,14 @@ masterpiece,best quality,1boy,office
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, rough sketch,nsfw
 ```
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2046436878, Size: 512x512, Model hash: 2d34a470c1, Model: manmaruMix_v30, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Version: v1.8.0
+
+---
+inpaint
+---
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/fdb75f12f4672ac1ae2a0f820aefb41f16f6f552/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/image_Inpaint.png)
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/fdb75f12f4672ac1ae2a0f820aefb41f16f6f552/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/image_Inpaint2.png
+)
+
+---
