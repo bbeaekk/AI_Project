@@ -19,3 +19,29 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1280110377, Size: 512x5
 ## Pixel
 
 ![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/3b5edef926552114111fee9a93b1cd60bf363091/Controlnet/5.png)
+
+---
+
+## OpenPose
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/f1e03d7ad76d98db28dddcff699fb2bc88159ad7/Controlnet/OpenPose/pose-fighting-full-009-ar2x3.png)
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/f1e03d7ad76d98db28dddcff699fb2bc88159ad7/Controlnet/OpenPose/Zpose2.png)
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/f1e03d7ad76d98db28dddcff699fb2bc88159ad7/Controlnet/OpenPose/Zpose1.png)
+
+---
+
+## Seg
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/f1e03d7ad76d98db28dddcff699fb2bc88159ad7/Controlnet/OpenPose/Seg2.png)
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/f1e03d7ad76d98db28dddcff699fb2bc88159ad7/Controlnet/OpenPose/Seg1.png)
+
+---
+
+## Lora
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/f1e03d7ad76d98db28dddcff699fb2bc88159ad7/Controlnet/OpenPose/Lora1.png)
+
+![image](https://raw.githubusercontent.com/bbeaekk/AI_Project/f1e03d7ad76d98db28dddcff699fb2bc88159ad7/Controlnet/OpenPose/Lora2.png)
